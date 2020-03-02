@@ -28,7 +28,7 @@ namespace HRManagementSystem
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Attendance));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AttendanceForm));
             this.label1 = new System.Windows.Forms.Label();
             this.leaveFromDTP = new System.Windows.Forms.DateTimePicker();
             this.leaveReasonRTB = new System.Windows.Forms.RichTextBox();
